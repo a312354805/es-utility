@@ -43,5 +43,6 @@
   },
   "require-dev": {
     "easyswoole/phpunit": "^1.1"
-  }
+  },
+  "minimum-stability": "dev"
 }
