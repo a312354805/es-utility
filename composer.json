@@ -15,10 +15,7 @@
     }
   ],
   "require": {
-    "php": ">=7.4",
-    "ext-json": "*",
-    "ext-iconv": "*",
-    "ext-mbstring": "*"
+    "php": ">=7.4"
   },
   "autoload": {
     "psr-4": {
