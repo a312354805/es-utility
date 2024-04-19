@@ -23,17 +23,17 @@
     "easyswoole/mysqli": ">=2.2",
     "easyswoole/task": ">=1.1",
     "easyswoole/log": ">=1.0",
-    "easyswoole/i18n": "^1.0",
-    "easyswoole/policy": "^1.0",
-    "easyswoole/file-watcher": "^1.0",
-    "easyswoole/tracker": "^1.1",
-    "easyswoole/swoole-ide-helper": "^1.3",
-    "easyswoole/words-match": "^1.1",
-    "easyswoole/wechat": "^2.0",
+    "easyswoole/i18n": ">=1.0",
+    "easyswoole/policy": ">=1.0",
+    "easyswoole/file-watcher": ">=1.0",
+    "easyswoole/tracker": ">=1.1",
+    "easyswoole/swoole-ide-helper": ">=1.3",
+    "easyswoole/words-match": ">=1.1",
+    "easyswoole/wechat": ">=2.0",
     "ext-json": "*",
     "ext-iconv": "*",
     "ext-mbstring": "*",
-    "easyswoole/http-client": "^1.5"
+    "easyswoole/http-client": ">=1.5"
   },
   "autoload": {
     "psr-4": {
