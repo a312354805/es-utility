@@ -33,7 +33,8 @@
     "ext-json": "*",
     "ext-iconv": "*",
     "ext-mbstring": "*",
-    "easyswoole/http-client": ">=1.5"
+    "easyswoole/http-client": ">=1.5",
+     "amsds-wonder-game/amsds-es-utility": "1.0.0"
   },
   "autoload": {
     "psr-4": {
